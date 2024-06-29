@@ -2,7 +2,7 @@
 <h4>I am a Jr. Dev.</h4>
 <p>I am here to share all i learn  on my developer journey. Mostly, i am working on my own web projects as fullstack, focusing on my targets. I am open to learn every single thing on this career path and i know that "work smart, be patient ,succes comes by itself."</p>
 
-- 🌱 I’m currently learning **ASP.NET && Java Spring Boot **
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **brym.telli.contact@gmail.com**
 
