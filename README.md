@@ -1,6 +1,6 @@
 <h2>Hi I am Bayram 👋</h2>
 
-<h4>I am a Jr. Software Developer</h4>
+<h4>I am a Assc. Software Developer</h4>
 
 <p>I am here to share everything I have learned on my journey as a developer. Currently, I am mostly working on web projects focused on production solutions. I am open to learning everything on this career path, and I know that 'work smart, be patient, and success will come on its own.`</p>
 
